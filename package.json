@@ -1,0 +1,13 @@
+{
+  "name": "honest-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A paper-trading memecoin desk that posts its real log — losses included.",
+  "scripts": {
+    "tick": "node src/tick.js",
+    "report": "node src/report.js",
+    "test": "node --test \"test/*.test.js\""
+  },
+  "engines": { "node": ">=20" }
+}
