@@ -1,8 +1,38 @@
 {
  "startedAt": 1793080370313,
- "cash": 1000,
- "open": [],
- "traded": {},
+ "cash": 800,
+ "open": [
+  {
+   "id": "Az8uSk7S7TCG2bTDM45dEdNmkwjLUQxGA1Fr2ui7XwA4",
+   "symbol": "MMGA",
+   "token": "Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa",
+   "url": "https://dexscreener.com/solana/az8usk7s7tcg2btdm45dednmkwjluqxga1fr2ui7xwa4",
+   "entryPrice": 0.00006898,
+   "qty": 1420701.652652943,
+   "size": 100,
+   "openedAt": 1793100477904,
+   "lastPrice": 0.00006898,
+   "lastSeenAt": 1793100477904,
+   "entryCap": 68985
+  },
+  {
+   "id": "2hmQJQPkJP67f68rd1AkPyWjVYVfpPi9aDExTXw2kN8R",
+   "symbol": "GAMBIT",
+   "token": "GrtE7xGn3iBk93hhf1zz6i3Wbfv1uDd9unStGVhGpump",
+   "url": "https://dexscreener.com/solana/2hmqjqpkjp67f68rd1akpywjvyvfppi9adextxw2kn8r",
+   "entryPrice": 0.0001045,
+   "qty": 937799.0430622009,
+   "size": 100,
+   "openedAt": 1793100477904,
+   "lastPrice": 0.0001045,
+   "lastSeenAt": 1793100477904,
+   "entryCap": 100326
+  }
+ ],
+ "traded": {
+  "Az8uSk7S7TCG2bTDM45dEdNmkwjLUQxGA1Fr2ui7XwA4": 1793100477904,
+  "2hmQJQPkJP67f68rd1AkPyWjVYVfpPi9aDExTXw2kN8R": 1793100477904
+ },
  "days": {
   "2026-10-27": {
    "seen": [
@@ -55,19 +85,47 @@
     "5EW3LXh5NYXHmH8X7kAG8iRm9x7Wwz2s6TCHjyFMpump",
     "JBKpuU4zBuBgCUvWB1UuCZx3G4WYm5c1AHvcMNxLpump",
     "Wkbz12wTebzbWNGXWANn6jcnPi7Uz4KUjxBvjL7pump",
-    "39fzweMMY4DRAgBQN61jbMGRoa2RBFTjAY3Vg95Epump"
+    "39fzweMMY4DRAgBQN61jbMGRoa2RBFTjAY3Vg95Epump",
+    "EQuxQqdvKD5r2xzb6FfbPaAAxF3MPyQKy3qV73RBpump",
+    "Cp1v5cVxuYUpCXA7B3pLtPP8BY6eVTVwCjRtEVz9pump",
+    "7QKUqpg3ZUaPyxVxw5uu2di1DGSj4h2oQXaxX9c4pump",
+    "Nwjeu8QowWv2VpQF8uDus2yUvWgDs2dTnfvuKNYSLEa",
+    "7dVpVqUEbJ9csNWWrDavsA8iAEwvb6BqWu1yVsQgpump",
+    "EHXFSere7d4Nk4K4GCLVHoBXFaWLGwZYLpiqReud4MMd",
+    "CZmdWuoGyweK17GqwxdBqnEzgxzrPbK8LdUYJj2RMwx9",
+    "4X2biT7cCLrC8RRytngrTr9HbrqNLQghZ5iZ3xNBpump",
+    "5bDtxo7ytnRQUTi72XNfzYA2YWCSdmRbQ3mgKJozpump",
+    "43wfrR1AA9xw4hDb1JdKLSawK6beutKMiGgVHDmmpump",
+    "2Ew1GAyFdLyapNMWRi8pLXt4G1QMNSCfBtuXCQy7pump",
+    "5gPHS2DAsH8sQv5SJG7MaAGgjDJpWMPDe6Bj75tJpump",
+    "Dg1YyVnCJtBZN8Fy1mSbUrQmKCJ7SZPApdr3XtWMpump",
+    "5XapX9FpytfrwqY8Y7mNStwrur8u5fNnJjEcJNXZpump",
+    "7EqTnbCs8AfJXXtHPmyVvEKish47QzVafrncCpwRpump",
+    "HMTwjQPHbf82woGKMwDyPHAxgpwVj4boFQPMwk5Bpump",
+    "Feixoq3AaHYjd8eBMJgLyVS3hKiq2a4k71myFQiGpump",
+    "2gRA2bmWpcs5VkYm2r3d4MXZWksgz3gxqNYZRFoZpump",
+    "5G3pzMiNQxiFctE1aZRTctYJLz5zGdfA1S65QMT5pump",
+    "Fek7BGWxw9MabKejxFdhEftygFkJXcQjezk99fkTmKaX",
+    "AkeAFeFKgyN687khQZfSUth7qNCnVoQJQu4uLRrQpump",
+    "GrtE7xGn3iBk93hhf1zz6i3Wbfv1uDd9unStGVhGpump",
+    "GqzjCgpxZF1NEyk7wgWkGkgVYy6DXyobgy2TRT6vpump",
+    "Bz5N9wrcxDw2YTf8tQkG8PJzdbUW89ZNWLWbdqA2pump",
+    "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8",
+    "6zMfMXjovo7ivtrypSP7YspHm5TcbV4Sh5TwSDgapump",
+    "2qPoPQQCHGtDbgdSxXfrzW1iRS3cGbKmMWSMapZ4pump"
    ],
-   "passed": 0,
-   "opened": 0,
+   "passed": 2,
+   "opened": 2,
    "killedBy": {
     "tooLate": 2,
-    "tooYoung": 1,
-    "capTooSmall": 18,
-    "tooOld": 19,
+    "tooYoung": 3,
+    "capTooSmall": 26,
+    "tooOld": 29,
     "sellers": 4,
     "noPrice": 3,
-    "notRising": 2,
-    "lowVolume": 1
+    "notRising": 3,
+    "lowVolume": 4,
+    "sellingNow": 1
    }
   }
  }
