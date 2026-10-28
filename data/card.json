@@ -1,32 +1,32 @@
 {
   "day": 1,
-  "date": "2026-10-27",
-  "equity": 606.18,
+  "date": "2026-10-28",
+  "equity": 337.01,
   "start": 1000,
-  "pnl": -393.82,
-  "pnlPct": -39.38,
-  "trades": 4,
+  "pnl": -662.99,
+  "pnlPct": -66.3,
+  "trades": 8,
   "wins": 0,
-  "losses": 4,
+  "losses": 8,
   "winRate": 0,
   "todayTrades": 4,
-  "todayPnl": -374.02,
-  "scannedToday": 150,
-  "passedToday": 10,
-  "open": 5,
+  "todayPnl": -291.04,
+  "scannedToday": 44,
+  "passedToday": 2,
+  "open": 3,
   "topKill": {
     "gate": "capTooSmall",
-    "n": 61
+    "n": 18
   },
   "best": {
-    "symbol": "Ai",
-    "pnlPct": -88.57
+    "symbol": "RTC ",
+    "pnlPct": -32.12
   },
   "worst": {
     "symbol": "SCSF",
     "pnlPct": -98.6
   },
   "exits": {
-    "stopLoss": 4
+    "stopLoss": 8
   }
 }
