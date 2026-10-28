@@ -1,32 +1,32 @@
 {
-  "day": 1,
+  "day": 2,
   "date": "2026-10-28",
-  "equity": 337.01,
+  "equity": 87.14,
   "start": 1000,
-  "pnl": -662.99,
-  "pnlPct": -66.3,
-  "trades": 8,
+  "pnl": -912.86,
+  "pnlPct": -91.29,
+  "trades": 11,
   "wins": 0,
-  "losses": 8,
+  "losses": 11,
   "winRate": 0,
-  "todayTrades": 4,
-  "todayPnl": -291.04,
-  "scannedToday": 44,
-  "passedToday": 2,
-  "open": 3,
+  "todayTrades": 7,
+  "todayPnl": -538.85,
+  "scannedToday": 81,
+  "passedToday": 6,
+  "open": 0,
   "topKill": {
     "gate": "capTooSmall",
-    "n": 18
+    "n": 40
   },
   "best": {
     "symbol": "RTC ",
     "pnlPct": -32.12
   },
   "worst": {
-    "symbol": "SCSF",
-    "pnlPct": -98.6
+    "symbol": "MOTHADO",
+    "pnlPct": -99.51
   },
   "exits": {
-    "stopLoss": 8
+    "stopLoss": 11
   }
 }
