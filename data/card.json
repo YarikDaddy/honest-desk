@@ -1,6 +1,6 @@
 {
   "day": 2,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "equity": 87.14,
   "start": 1000,
   "pnl": -912.86,
@@ -9,14 +9,14 @@
   "wins": 0,
   "losses": 11,
   "winRate": 0,
-  "todayTrades": 7,
-  "todayPnl": -538.85,
-  "scannedToday": 179,
-  "passedToday": 10,
+  "todayTrades": 0,
+  "todayPnl": 0,
+  "scannedToday": 43,
+  "passedToday": 2,
   "open": 0,
   "topKill": {
-    "gate": "capTooSmall",
-    "n": 74
+    "gate": "tooOld",
+    "n": 17
   },
   "best": {
     "symbol": "RTC ",
