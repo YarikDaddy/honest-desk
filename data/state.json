@@ -547,6 +547,61 @@
     "sellingNow": 2,
     "sellers": 3
    }
+  },
+  "2026-10-30": {
+   "seen": [
+    "G68ruHgnWmHBg8QGbXkPv9UMpPhDmJ33MHTbdf5tpump",
+    "Dv6gYYkTav8Pm36UwAywxNCccwSZV1VL1tjiSpDLpump",
+    "5xisvatFv2xLEbnFDFkXVQrf1AKQB17JH5CowXoVpump",
+    "6i4ebPt8dpGchB2A1ELpTz3B72dy5DkzNpFMNtUSpump",
+    "FnvQAPxZM1FsRJL9UabeXcaPWGn2yR5vaUJvCqg4pump",
+    "Dn6DzgXkRRJXCR4pGkQFrxWesZJg9k387c2QEsSRpump",
+    "A6cmGqUaoS1VWkU4Q8dUeRideS8sjbdHTcPQ6WKBpump",
+    "4HSHFbFiKuMvZW7yGiDTab17B63MzBkkhadFKxhkpump",
+    "Do68hm9wSx6mPjY7Z5gZx6XVab5n9588T1VsLGyMpump",
+    "8h9RgHdpKNqF4zgB7wQeMRahmtuuAGQ4iqa6vpozpump",
+    "3QKWDZdHBtGNE3jQXKQfWUCgPVGggMtm6xmkUPeC2UQT",
+    "GE3qKrtuVodNTmGAUqPyEvwc1kD6kAYVLyskQWkqpump",
+    "387AKE5T853Me3qaUNYumQAtNSLkiR7rKv5rGbMDpump",
+    "8p51fvM5ZKrzp3tRkTRKTVgxUGw1PrRu3TTkkJkJHype",
+    "5q45EK4mRhuiuBmRYoaDs4m2xweaV7gn3zsFhsvcpump",
+    "Hh75XVgo1zKLctEwhiaGUHwyzn4rfGirnzhTxq1xpump",
+    "HA479B5zxyLPsV6rUo8PzoYKK2WCDZhJojJuqdx9pump",
+    "HhSAXKiS2Svc9HQRcnXCu5v4SzMT6mwSxPiGonL2pump",
+    "GkckxUjvYUVevkBKPADYJsTYDWRnjgNJZ59ULKxnpump",
+    "By1Nd4iQ3dwdfS6SSepg5PmMXifghR8skw3p2p6Bpump",
+    "43Mi4KHYAE7EHWZPqrjaSdqEicY8dqqf1f6cJn5Qpump",
+    "3EnfmbxdD2nHJ1KoogUgoYgeqS54gKis3AD3ieHGpump",
+    "4KdB5zg8VuuUKJEk4DvkVZnrT9DJQxvWbjfDRF4cpump",
+    "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump",
+    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
+    "3uAfWxkhj7SrTzpwvRAyxmupzQj3ds4zsHffHgNhQsBn",
+    "DxbKekHj7uUiFKKnXvegpKcLR2HWsuA4nudBWJcvpump",
+    "4MaEHc6c2sNGqbWzdhfmK5teYSddTq2cDGVPRmbwDmcX",
+    "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM",
+    "Bo9fcNZQ8J8BQP69Rbqt6sPpfwqtqh2KMy48ZBWdyvVb",
+    "FGGwUpqPHTxwLDdtoY37KBJ6tQxfY5N1JLTXEs2ppump",
+    "2C5DqjLHvJbxdf5c2o99KB8PScyt3XUtykmXHYuGmeme",
+    "AHKcbfroL4aYLcmK6iPwYJieGYUZZmeB917FZYjbg6Xb",
+    "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump",
+    "ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump",
+    "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump",
+    "AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump",
+    "5C5K1ZetdvGoF5QRcyRbVMiVLhkJzS8RkH8UL2pwpump",
+    "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip",
+    "WMDjfTDgd5HLwJ9bYwyoeWDDVj9tH8TCcMjowLqpump",
+    "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump",
+    "FNpZa5dmxtyt1HPkuB5kjmRAa4id7M21qYaxR2vapump"
+   ],
+   "passed": 1,
+   "opened": 0,
+   "killedBy": {
+    "tooYoung": 2,
+    "capTooSmall": 21,
+    "lowVolume": 2,
+    "noPrice": 1,
+    "tooOld": 15
+   }
   }
  }
 }
