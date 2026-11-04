@@ -2,10 +2,7 @@
  "startedAt": 1793080370313,
  "cash": 87.14073544501137,
  "open": [],
- "traded": {
-  "rgYVAM22WjBfMszK2jTb3rx1Sab9B7uxtSgr6y4NfWM": 1793147416978,
-  "27v9YuHL5YLF6bCpQhsBmZGMBAyahhLoPkCFZH2oS9xR": 1793147416978
- },
+ "traded": {},
  "days": {
   "2026-10-27": {
    "seen": [
@@ -1402,6 +1399,73 @@
     "capTooBig": 2,
     "sellers": 5,
     "notRising": 3
+   }
+  },
+  "2026-11-04": {
+   "seen": [
+    "GRWVAfwa6PJtWZtfG6jdu5vAVe4AckQiKT8Jsga6pump",
+    "Fx8xXquQSfVGnfffbgZhP7NbCyUHSLTFDtasS94Spump",
+    "DMgry6A9C6U6jopS7bAawukAvAcgpUvWfJULcbnfpump",
+    "5uY4RXyTkkHBkhatNzCmTphAhBS3LU6yaLd9b9uAhQAb",
+    "CqtohE9UjVtVgt58PYHUTK3T2jtynKo23TUesSRupump",
+    "GCEEdGYx17shhJyudBTAHYAgcTEpKzntyiiqysmUpump",
+    "9zEimWDFTohZQhmrergbLL7SFs5wWfcTg7qkRVaqSt2R",
+    "3ekWNf8QZuxbNnXPGUA4t8dcG7rqvRvDkyM6Mf9hpump",
+    "6u7CWWu2trqBNzySaCqt8kaLb4Dh2LAdStiLciWJpump",
+    "HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump",
+    "8VNh5MPTg5FJ5Fvo3KAH84vuXF1jozCN1mnZTX8Hpump",
+    "DX51xEuEckZ3Jc6x333fTFUVz2pYQriNQ2cUb1Cupump",
+    "FEejVzuJWCRPRKH7CyWAqGEWDPCqj4ChfQNDsma6pump",
+    "DJ7QLU6qvaacEUyuV7JPAd6227zZqBDoGzbzcfqPpump",
+    "FDGdzwKowt4hLkgMFtNik3dL5JeCrvFQqkgxJyGgSG6x",
+    "6i3oFRo48Xbnu7B9YH5DgypHRvsr47GagoJhSvs4pump",
+    "GT7kQdT3JvZ8vFBW4jjYGYBsrNrE9U4UFspJJAXapump",
+    "HZWx1WGSygHc4MUu1dsDpC91LKNwzFyrRu3D6FvKpump",
+    "69GXjuoQGxNb75BgQ54qUf6j2aDgXHVSkAcefuiqe58u",
+    "Cc7vK7iSDtxCKY5tGMdwBKMSR44BQYh8pNHskpKs9Qs1",
+    "8W5rPypoX9bGvzUsziDEq2ZtjzPhGBVboPhUAXuZpump",
+    "2Nhb9M58caMHufHzEa2DhNA1FEsVVL8axXu6iidvQfDe",
+    "DyUR3ZpJj5iu8WBG7zk1YbamJE5k9afZhoM7xYCbpump",
+    "HV5dDHodf46zXunYAPbYpYs7THtrriiptqzczHKvpump",
+    "D28v5NR4FLti3yFTXZkdHp3UBzbVH9XytiQfk4z9pump",
+    "2b8E4BvtGqqfNsLGKPWsSiutss1SPy7h1ANGoDvopump",
+    "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump",
+    "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1",
+    "JCdE6KcCEUcgmhiCQfXTL11524wSgqJCnGtYDA757q4a",
+    "28mMSX6AtAoDHGCHqut9EazEBqTnooqzDP21CdgDCALL",
+    "CqUzBPsCAnhm7hFNzz4PeTZamp9yyvxLey2J15Axpump",
+    "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump",
+    "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
+    "592MyuZiyHCEg8YJBnGJXCpcgfaK81vKiV83M3XMpump",
+    "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump",
+    "JcPLcB4WN61b2i6cZctiXW2R9AYCAKCQo6tqFVNpump",
+    "AdNqCG9CeMb8i6KjQBCDLyuUkBRtb5AMnfNqzjUcpump",
+    "6gnB2H2hbTVvKUWCzNuqjWY8Rod6EVBmfHi7YxZpTWa7",
+    "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump",
+    "3zRn4CSCv5yVxwGxub1qTZFA2PQJNrEX9SJKKSH8pump",
+    "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q",
+    "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
+    "FK5tP4Zw7ujWzaz3TgeJ5NcqGe5LFufo7m6zH6YQpump",
+    "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump",
+    "2724239D1JhWQGV5WZ7tdBTN5Jz4FZ3pdmvj3iD4LsVE",
+    "67CaK7YoCr6fVhWWmZ4F6hF1KBwked3ZgPWiGXpRpump",
+    "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+    "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM",
+    "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
+    "HuNvBLyLx2CTyGpYcm7f1xSNnzWQVsy6hU9N7NY4pump",
+    "HAjc6B1MfdjnYPiB2xcETPb25kb85Pxg9nq9i4D5pump",
+    "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump"
+   ],
+   "passed": 3,
+   "opened": 0,
+   "killedBy": {
+    "tooYoung": 1,
+    "noPrice": 5,
+    "sellers": 1,
+    "capTooSmall": 16,
+    "tooOld": 24,
+    "sellingNow": 1,
+    "lowVolume": 1
    }
   }
  }
