@@ -7,11 +7,11 @@ Paper bank: **$87.14** (-91.29% from $1000). Fees 2% per side included.
 | Closed trades | 11 (0 W / 11 L, 0% win rate) |
 | Today | 0 closed, +0 $ |
 | Open positions | 0 |
-| Tokens scanned today | 123, passed all gates: 3 |
+| Tokens scanned today | 155, passed all gates: 5 |
 | Best | RTC  -32.12% |
 | Worst | MOTHADO -99.51% |
 
-**What killed tokens today:** tooOld 45, capTooSmall 41, noPrice 12, tooYoung 8, lowVolume 7, notRising 4, tooLate 2, sellingNow 1
+**What killed tokens today:** capTooSmall 58, tooOld 50, noPrice 14, tooYoung 9, lowVolume 7, notRising 4, tooLate 3, sellers 2, capTooBig 2, sellingNow 1
 
 ## Open
 - none
