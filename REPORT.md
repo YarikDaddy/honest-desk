@@ -1,4 +1,4 @@
-# Honest Desk — Day 12 (2026-11-08)
+# Honest Desk — Day 13 (2026-11-08)
 
 Paper bank: **$87.14** (-91.29% from $1000). Fees 2% per side included.
 
@@ -7,11 +7,11 @@ Paper bank: **$87.14** (-91.29% from $1000). Fees 2% per side included.
 | Closed trades | 11 (0 W / 11 L, 0% win rate) |
 | Today | 0 closed, +0 $ |
 | Open positions | 0 |
-| Tokens scanned today | 46, passed all gates: 0 |
+| Tokens scanned today | 65, passed all gates: 0 |
 | Best | RTC  -32.12% |
 | Worst | MOTHADO -99.51% |
 
-**What killed tokens today:** tooOld 21, capTooSmall 16, notRising 4, tooYoung 2, sellers 1, noPrice 1, lowVolume 1
+**What killed tokens today:** capTooSmall 27, tooOld 24, tooYoung 4, notRising 4, noPrice 3, lowVolume 2, sellers 1
 
 ## Open
 - none

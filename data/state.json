@@ -2106,18 +2106,37 @@
     "BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump",
     "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray",
     "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep",
-    "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump"
+    "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump",
+    "HJSJ7NUXYZ8es3UZ4w35XEsw7YRJLakKetBsz1WDpump",
+    "SErvtWoP3S38q6EY9tFwth9ttuBnk8TnC74QXcwpump",
+    "2EKCisXVZzYuukZMuVe9SbCRv2uitCcVJtiCdPbipump",
+    "FQtw9dqktKRoBZHX4N1eMUib5pXF8wB3jqsBBqErpump",
+    "HsXo7d9bFQZTbhAquXJBmykCJoPnzZVnx92GNrZTpump",
+    "B7up5gMt5GGjWH1EgAUzpFoRsTnxFqJtiyuPzfQKREZN",
+    "2u2x9uUPdeviP1x7qhkkMCFXTGqE3XECM9DwMko2BAGS",
+    "AKeCyQBKmKRTekyvv5eC4sTkrrMwcPdzMYqxzGbQPUTS",
+    "C26EBNRsX9xH8j2KUJPp3vcSEojmCr4o2X8JWu6pump",
+    "FAbrofbfsT4PPe8XnmPhEYTQDTAzKq2Wp6Gvw35bpump",
+    "3sHeSj5J4NURPVFogUGziTWoavkx89N7rSZWXPa8pump",
+    "HpfpdYh8kaDU5BJHyTgJqshoybhCiT7x8CqwKSikpump",
+    "7pVL46MuwmQn3bYM3DBKSS1ddNtRur6wEyS54pGPrAiJ",
+    "BmVq82fVFD392cA91euT6cPWgvzc4SwiBHU7NuXFpump",
+    "6fjNqLjHkUtUdZUt1hKnnTpc7DbjT65DLCLAUoESpump",
+    "AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump",
+    "EiLqr83DxDMFnvARpaR6iEd5RQRYYKJHadqmRdUzpump",
+    "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump",
+    "4HqpRjsRS8pjdWa2B3mBAmNNxTXUeJ9L6AfFnRgipump"
    ],
    "passed": 0,
    "opened": 0,
    "killedBy": {
-    "tooYoung": 2,
-    "capTooSmall": 16,
-    "tooOld": 21,
+    "tooYoung": 4,
+    "capTooSmall": 27,
+    "tooOld": 24,
     "sellers": 1,
     "notRising": 4,
-    "noPrice": 1,
-    "lowVolume": 1
+    "noPrice": 3,
+    "lowVolume": 2
    }
   }
  }
