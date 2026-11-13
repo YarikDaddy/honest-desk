@@ -11,12 +11,12 @@
   "winRate": 0,
   "todayTrades": 0,
   "todayPnl": 0,
-  "scannedToday": 91,
-  "passedToday": 1,
+  "scannedToday": 123,
+  "passedToday": 4,
   "open": 0,
   "topKill": {
     "gate": "capTooSmall",
-    "n": 39
+    "n": 51
   },
   "best": {
     "symbol": "RTC ",
