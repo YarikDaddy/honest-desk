@@ -1,5 +1,5 @@
 {
-  "day": 20,
+  "day": 21,
   "date": "2026-11-16",
   "equity": 87.14,
   "start": 1000,
@@ -11,12 +11,12 @@
   "winRate": 0,
   "todayTrades": 0,
   "todayPnl": 0,
-  "scannedToday": 52,
-  "passedToday": 3,
+  "scannedToday": 89,
+  "passedToday": 4,
   "open": 0,
   "topKill": {
-    "gate": "tooOld",
-    "n": 23
+    "gate": "capTooSmall",
+    "n": 37
   },
   "best": {
     "symbol": "RTC ",
